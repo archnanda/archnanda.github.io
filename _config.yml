@@ -1,6 +1,6 @@
-name: Celso Dantas
-description: A blog about my studies and findings
-meta_description: "My name is Celso Dantas, and this is my blog."
+name: Fernanda Dantas
+description: This is my web page =)
+meta_description: "My name is Fernanda Dantas and I'm an Architect."
 
 markdown: redcarpet
 pygments: true
@@ -10,8 +10,8 @@ paginate: 15
 excerpt_separator: "<!-- more -->"
 
 # Details for the RSS feed generator
-url:    'www.celsodantas.com'
-author: 'Celso Dantas'
+url:    'www.fernandadantas.com'
+author: 'Fernanda Dantas'
 
 # Disqus Comments
-disqus_shortname: "celsodantasblog"
+disqus_shortname: "fernandadantasblog"
